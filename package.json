@@ -1,0 +1,22 @@
+{
+  "name": "test-package789",
+  "version": "1.0.0",
+  "description": "test package 789",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhisekhaldar/test-package789.git"
+  },
+  "keywords": [
+    "test789"
+  ],
+  "author": "abhisek haldar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhisekhaldar/test-package789/issues"
+  },
+  "homepage": "https://github.com/abhisekhaldar/test-package789#readme"
+}
